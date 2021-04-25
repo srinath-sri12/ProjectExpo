@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="C:/Users/Sridhar/Desktop/mysql-connector-java-8.0.22 (1)/mysql-connector-java-8.0.22/mysql-connector-java-8.0.22.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sridhar/Downloads/apache-tomcat-9.0.39/apache-tomcat-9.0.39/lib/servlet-api.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sridhar/Downloads/object-mapper-0.2.1.jar/object-mapper-0.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sridhar/Downloads/jar_files/jackson-annotations-2.9.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sridhar/Downloads/jar_files/jackson-core-2.9.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Sridhar/Downloads/jar_files/jackson-databind-2.9.5.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
